@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Metrics](https://github.com/player-eric/player-eric/blob/main/github-metrics.svg)
+
 
 
 - 🔭 I’m currently working on ...
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Metrics](https://github.com/player-eric/player-eric/blob/main/github-metrics.svg)
+<p align="center"><img src="https://github.com/player-eric/player-eric/blob/main/github-metrics.svg" align="center" /></p>
