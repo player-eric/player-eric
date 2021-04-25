@@ -1,11 +1,26 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+
 __Master's student in computer science at Brown University.__
 
-__I'm passinate about solving real-world problems with my knowledge in CS and coding for social good.__
+__Passionate about solving real-world problems with my knowledge in CS and coding for social good.__
 
-### 💻:keyboard: Tech Stack<sup>*</sup>
+### 💻 Tech Stack<sup>*</sup>
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](aa)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
+## Languages
+
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://kotlinlang.org" target="_blank"> 
+ <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+ <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
+ <a href="https://www.python.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
 
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
