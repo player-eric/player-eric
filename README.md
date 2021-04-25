@@ -81,7 +81,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
 
  ---
 ### 📫 Get In Touch
-<a href="https://www.linkedin.com/in/shiqin-yan/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/shiqin-yan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:qle2@shiqin_yan@brown.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="mailto:shiqin_yan@brown.edu" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
