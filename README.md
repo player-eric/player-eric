@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 
-__Master's student in computer science at Brown University.__
+__Master's student in computer science at Brown University (Class of 2022), looking for Software Engineer roles in 2022.🔧__
 
 __Passionate about solving real-world problems with my knowledge in CS and coding for social good.__
 
