@@ -20,8 +20,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://kotlinlang.org" target="_blank"> 
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
- <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://rjyoung.gallerycdn.vsassets.io/extensions/rjyoung/vscode-modern-vhdl-support/1.0.5/1580674008003/Microsoft.VisualStudio.Services.Icons.Default" alt="matlab" width="40" height="40"/> </a> 
+ <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
  </p>
 
 
@@ -34,7 +33,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
-
+  <a href="https://d3js.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="d3js" width="40" height="40"/> </a> 
 </p>
 
 
