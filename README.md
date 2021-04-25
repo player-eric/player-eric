@@ -5,7 +5,7 @@ __Master's student in computer science at Brown University.__
 
 __Passionate about solving real-world problems with my knowledge in CS and coding for social good.__
 
-### 💻 Tech Stack<sup>*</sup>
+# 💻 Tech Stack<sup>*</sup>
 
 ## Languages
 
@@ -79,8 +79,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
 
 <sup>*click on some badges may redirect you to my corresponding repositories</sup>
 
- ---
-### 📫 Get In Touch
+# 📫 Get In Touch
 <a href="https://www.linkedin.com/in/shiqin-yan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:shiqin_yan@brown.edu" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
