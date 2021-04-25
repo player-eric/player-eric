@@ -1,13 +1,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 
-__Master's student in computer science at Brown University (Class of 2022), looking for Software Engineer roles in 2022.🔧__
+Master's student in computer science at Brown University (Class of 2022), __looking for Software Engineer roles in 2022.🔧__
 
-__Passionate about solving real-world problems with my knowledge in CS and coding for social good.__
+Passionate about solving real-world problems with my knowledge in CS and coding for social good.
 
-# 💻 Tech Stack<sup>*</sup>
+## 💻 Tech Stack<sup>*</sup>
 <sup>*click on some icons may redirect you to my corresponding repositories</sup>
-## Languages
+### Languages
 
 <p align="left"> 
  
@@ -24,7 +24,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
  </p>
 
 
-## AI / ML / DS
+### AI / ML / DS
 
 <p align="left">
   <a href="https://github.com/player-eric/CoverYourNose" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
 </p>
 
 
-## Web / App development
+### Web / App development
 <p align="left"> 
   <a href="https://github.com/player-eric/BrownBytes" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    <a href="#" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="vuejs" width="40" height="40"/> </a> 
@@ -53,7 +53,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
 </p>
 
 
-## Database
+### Database
 <p align="left"> 
 <a href="https://github.com/player-eric/BrownBytes" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="react" width="40" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="react" width="40" height="40"/> </a> 
@@ -61,7 +61,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
  <a href="#" target="_blank"> <img src="https://go.neo4j.com/rs/710-RRC-335/images/neo4j_logo_globe.png" alt="react" width="40" height="40"/> </a> 
 </p>
 
-## Tools
+### Tools
 <p align="left"> 
 <a href="https://github.com/player-eric/CoverYourNose" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="react" width="40" height="40"/> </a> 
  <a href="https://github.com/player-eric/gapsule" target="_blank"> <img src="https://travis-ci.org/images/logos/TravisCI-Mascot-1.png" alt="react" width="40" height="40"/> </a> 
@@ -70,7 +70,7 @@ __Passionate about solving real-world problems with my knowledge in CS and codin
 <a href="https://github.com/player-eric/NMT-Visualizer" target="_blank"> <img src="https://miro.medium.com/max/724/1*aDcnXab1QC_5KF8JUxDEYA.png" alt="react" width="80" height="40"/> </a> 
 </p>
 
-## Software
+### Software
 <p align="left"> 
 <a href="#" target="_blank"> <img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="react" width="40" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" alt="react" width="40" height="40"/> </a> 
