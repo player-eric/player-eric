@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 
-Software engineer at Bloomberg
+Software engineer at Bloomberg.
 
 ## 💻 Tech Stack<sup>*</sup>
 <sup>*click on some icons may redirect you to my corresponding repositories</sup>
