@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 
-Master's student in computer science at Brown University (Class of 2022), __looking for Software Engineer roles in 2022.🔧__
-
-Passionate about solving real-world problems with my knowledge in CS and coding for social good.
+Software engineer at Bloomberg
 
 ## 💻 Tech Stack<sup>*</sup>
 <sup>*click on some icons may redirect you to my corresponding repositories</sup>
